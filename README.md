@@ -11,7 +11,6 @@ This is simply a fork for individual changes/modifications
 
 This was done using Thonny and VSCode, pushing to a Raspberry Pi Pico W(ifi).
 
-# StrobeShield
 ![Logo](https://github.com/zabsy/StrobeShield/assets/118029339/4ef7d70b-d9f9-4374-b85a-f5e2c475bc20)
 ![StrobeShield Image](https://github.com/zabsy/StrobeShield/assets/118029339/0414a460-40d2-497d-88e2-152297a199c1)
 
