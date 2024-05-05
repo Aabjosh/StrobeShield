@@ -1,7 +1,7 @@
 # StrobeShield
-Submission for EurekaHacks
+Submission files from our EurekaHacks 2024 project
 
-This is simply a fork of the project for individual changes/modifications
+This is simply a fork for individual changes/modifications
 
 ## My Contributions
 - developed and manufactured the mechanical system (SolidWorks 2023, FDM Printing (Bambu X1 Carbon))
